@@ -55,7 +55,7 @@ ChurnPrediction/
 - **Target:** Exited (1 = cliente se fue, 0 = se quedó)
 
 ## 📝 Autor
-Tu Nombre - Ingeniería de Sistemas, Universidad de Lima
+Ysrael Zurita - Ingeniería de Sistemas, Universidad de Lima
 
 ---
 
