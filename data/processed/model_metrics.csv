@@ -1,0 +1,5 @@
+modelo,auc_validacion,auc_test,version
+Logistic Regression,0.76,0.766,Fase 3
+Random Forest,0.852,0.853,Fase 3
+LightGBM,0.854,0.858,Fase 3
+XGBoost con tuning (final),0.866,0.871,Final
